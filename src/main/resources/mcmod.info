@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "nicknamemod",
+        "name": "NickNameMod",
+        "description": "Nicknames for Mohist",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://www.teamfruit.net/",
+        "updateUrl": "",
+        "authorList": ["Kamesuta"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
